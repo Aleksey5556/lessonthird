@@ -1,4 +1,4 @@
-package Сollection;
+package Сollection.lesson3;
 
 import java.util.HashMap;
 import java.util.HashSet;
